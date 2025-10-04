@@ -1,71 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="650" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="17">
-  <style>
-    .bg { fill: #0d1117; }
-    .title { fill: #ffffff; font-size: 34px; font-weight: 700; }
-    .ascii { fill: #c9d1d9; font-size: 16px; white-space: pre; }
-    .key { fill: #ff8c00; font-weight: 700; }
-    .value { fill: #a5d6ff; }
-    .dots { fill: #6b7280; }
-    text, tspan { white-space: pre; }
-  </style>
-
-  <!-- Background -->
-  <rect class="bg" width="1200" height="700" rx="12"/>
-
-  <!-- Title (centered) -->
-  <text x="600" y="60" class="title" text-anchor="middle">Why are you here??????</text>
-
-  <!-- Left: ASCII art (preserve exact spacing & shape) -->
-  <text x="60" y="120" class="ascii" xml:space="preserve">
-<tspan x="60" dy="0">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠲⢤⡀⠀⠀⣶⣄⡀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠙⠲⢤⡀⢾⠉⠉⠓⠦⣀⢻⡀⢄⠉⠳⣄⢳⡀⠙⢦⡀⢸⠏⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⢤⡀⠀⠙⢻⣆⠘⢦⡀⠈⠻⣷⡈⢳⡀⠈⠻⣿⣳⡀⠳⣼⡇⠄⢳⠀⠀⢀⣠⣤⣤⣤⡀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⣈⣷⣤⣤⣽⣆⠀⠁⠀⠀⠈⢳⣀⣉⣀⡀⠈⠃⠓⠀⠈⣧⣺⠈⣧⠔⣻⣥⣄⣹⣿⠃</tspan>
-<tspan x="60" dy="17">⢠⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣤⣀⠉⠙⠻⣦⠀⣠⡾⢛⣋⡉⠙⠻⢷⣦⡀⠀⠀⠈⢻⠾⠡⢞⡵⠛⢉⡼⠃⠀</tspan>
-<tspan x="60" dy="17">⠸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⣿⣿⣿⣿⣿⣷⠀⠀⢹⡿⢻⣿⣿⣿⣿⣷⡄⠀⠹⣷⠀⠀⠀⠀⠀⠐⣯⣴⠞⠋⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠙⢿⢳⣶⣤⣄⣀⣀⣀⡀⠀⣿⠁⣿⣿⣿⣿⣿⣿⠀⠀⣸⡇⢸⣿⣿⣿⣿⣿⡇⠀⠀⣿⠇⠀⠘⡆⠀⠀⠀⠻⡄⠀⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠈⢦⠙⢧⣄⡀⠀⠉⢉⣉⢻⣆⠈⠛⠿⠿⠛⠁⠀⣠⣿⣇⠈⠻⢿⣿⡿⠟⠁⠀⣼⡿⠀⠀⠀⢹⡀⠀⢠⠀⢧⠀⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠈⢣⡀⠙⠫⣝⡀⠤⣄⡀⠻⢷⣤⣀⣀⣀⣤⣾⠟⠁⠻⣧⣄⠀⠀⠀⣀⣤⣾⠟⠁⠀⡄⠀⠈⠃⠀⠘⡇⢸⡄⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠹⢆⠀⠀⠉⠓⠢⠤⣤⣀⣉⣉⣉⣉⣉⣀⣀⣀⣀⠈⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠙⠈⣇⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠑⢦⡀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠓⠲⢤⣀⠀⠀⠀⣡⠞⠁⢰⠀⠀⠀⢻⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⡟⠀⢀⠘⡆⠀⡄⠸⡇⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⢸⢸⠀⢧⠀⢹⠀⣧⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡏⠳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠘⢸⠀⠀⠀⠸⡆⣹⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⢸⠀⠀⠀⠀⠁⢿⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠠⣾⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⡄⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⢸⢸⠀⢠⠀⠀⠀⢸⡇⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠻⣟⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢤⠇⣿⠀⠀⠀⠀⠀⣴⣾⣿⣄⠀⠀⠀⠀⠀⠀⠀⡇⠈⣾⠀⢸⡆⠀⡆⠈⡇⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⢻⠀⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⢰⣿⠀⠀⠀⠀⠸⣿⡉⠉⣿⠂⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠘⡇⠀⢿⠀⣇⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠸⡆⠘⡦⠄⠀⠠⠤⠄⠀⠀⠀⢀⡏⠀⣸⠰⡆⠀⠀⠀⠀⠙⢿⡀⣙⢦⡀⠀⠀⠀⠀⣾⡼⢸⢿⡄⠀⠁⠀⠸⠀⢹⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⢹⡀⠹⣄⠀⠀⠀⠀⠀⠀⠀⣸⢡⢀⡇⠀⠀⠀⠀⠀⠀⠀⠈⠳⣜⠳⡝⠦⠤⠴⣞⠁⣠⡟⠸⡇⠀⠀⠀⠀⠀⣿⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠳⡀⠘⢦⣀⠀⠀⠀⣀⡴⠃⢀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⢦⣀⣘⣋⣡⠾⠋⢸⡄⠀⠀⡆⠀⠀⠀⢸⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠙⢦⣀⠈⠉⠉⠭⠵⢂⣤⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⡇⠀⠀⠀⣽⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠒⠒⠋⠉⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢛⢰⠀⠀⠀⠀⠃⠀⡟⠀</tspan>
-  </text>
-
-  <!-- Right: Info block (editable placeholders) -->
-  <text x="660" y="120" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" xml:space="preserve">
-    <tspan x="660" dy="0"><tspan class="dots">- </tspan><tspan class="key">OS</tspan><tspan class="dots">:</tspan> <tspan class="dots">..........................</tspan> <tspan class="value">[Void Linux, macOS, Windows 11]</tspan></tspan>
-
-    <tspan x="660" dy="24"><tspan class="dots">- </tspan><tspan class="key">Uptime</tspan><tspan class="dots">:</tspan> <tspan class="dots">.....................</tspan> <tspan class="value">[About to be 2 years since I learned to code]</tspan></tspan>
-
-    <tspan x="660" dy="24"><tspan class="dots">- </tspan><tspan class="key">Host</tspan><tspan class="dots">:</tspan> <tspan class="dots">........................</tspan> <tspan class="value">[Student]</tspan></tspan>
-
-    <tspan x="660" dy="24"><tspan class="dots">- </tspan><tspan class="key">Kernel</tspan><tspan class="dots">:</tspan> <tspan class="dots">........................</tspan> <tspan class="value">[Computer Programmer]</tspan></tspan>
-
-    <tspan x="660" dy="28"><tspan class="dots">- </tspan><tspan class="key">IDE</tspan><tspan class="dots">:</tspan> <tspan class="dots">........................</tspan> <tspan class="value">[VSCode, JetBrains, Emacs, Xcode]</tspan></tspan>
-
-    <tspan x="660" dy="28"><tspan class="dots">- </tspan><tspan class="key">Languages.Programming</tspan><tspan class="dots">:</tspan> <tspan class="dots">.....</tspan> <tspan class="value">[Python, C++, Java, TypeScript, Swift]</tspan></tspan>
-
-    <tspan x="660" dy="28"><tspan class="dots">- </tspan><tspan class="key">Languages.Computer</tspan><tspan class="dots">:</tspan> <tspan class="dots">.......</tspan> <tspan class="value">[HTML, CSS, Bash, Typst, Markdown]</tspan></tspan>
-
-    <tspan x="660" dy="28"><tspan class="dots">- </tspan><tspan class="key">Languages.Real</tspan><tspan class="dots">:</tspan> <tspan class="dots">........................</tspan> <tspan class="value">[English, Spanish]</tspan></tspan>
-
-    <tspan x="660" dy="32"><tspan class="dots">- </tspan><tspan class="key">Hobbies.Software</tspan><tspan class="dots">:</tspan> <tspan class="dots">...........</tspan> <tspan class="value">[Modding devices, Competitive programming, CTFs]</tspan></tspan>
-
-    <tspan x="660" dy="28"><tspan class="dots">- </tspan><tspan class="key">Hobbies.Hardware</tspan><tspan class="dots">:</tspan> <tspan class="dots">...........</tspan> <tspan class="value">[Building keyboards — Sofle v2; Tide 49]</tspan></tspan>
-
-    <tspan x="660" dy="36"><tspan class="dots">- </tspan><tspan class="key">Hobbies.RealWorld</tspan><tspan class="dots">:</tspan> <tspan class="dots">...........</tspan> <tspan class="value">[Beer brewing, CS:GO, Skateboarding]</tspan></tspan>
-  </text>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠲⢤⡀⠀⠀⣶⣄⡀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="50">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠙⠲⢤⡀⢾⠉⠉⠓⠦⣀⢻⡀⢄⠉⠳⣄⢳⡀⠙⢦⡀⢸⠏⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="70">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⢤⡀⠀⠙⢻⣆⠘⢦⡀⠈⠻⣷⡈⢳⡀⠈⠻⣿⣳⡀⠳⣼⡇⠄⢳⠀⠀⢀⣠⣤⣤⣤⡀</tspan>
+<tspan x="15" y="90">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⣈⣷⣤⣤⣽⣆⠀⠁⠀⠀⠈⢳⣀⣉⣀⡀⠈⠃⠓⠀⠈⣧⣺⠈⣧⠔⣻⣥⣄⣹⣿⠃</tspan>
+<tspan x="15" y="110">⢠⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣤⣀⠉⠙⠻⣦⠀⣠⡾⢛⣋⡉⠙⠻⢷⣦⡀⠀⠀⠈⢻⠾⠡⢞⡵⠛⢉⡼⠃⠀</tspan>
+<tspan x="15" y="130">⠸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⣿⣿⣿⣿⣿⣷⠀⠀⢹⡿⢻⣿⣿⣿⣿⣷⡄⠀⠹⣷⠀⠀⠀⠀⠀⠐⣯⣴⠞⠋⠀⠀⠀</tspan>
+<tspan x="15" y="150">⠀⠙⢿⢳⣶⣤⣄⣀⣀⣀⡀⠀⣿⠁⣿⣿⣿⣿⣿⣿⠀⠀⣸⡇⢸⣿⣿⣿⣿⣿⡇⠀⠀⣿⠇⠀⠘⡆⠀⠀⠀⠻⡄⠀⠀⠀⠀</tspan>
+<tspan x="15" y="170">⠀⠀⠈⢦⠙⢧⣄⡀⠀⠉⢉⣉⢻⣆⠈⠛⠿⠿⠛⠁⠀⣠⣿⣇⠈⠻⢿⣿⡿⠟⠁⠀⣼⡿⠀⠀⠀⢹⡀⠀⢠⠀⢧⠀⠀⠀⠀</tspan>
+<tspan x="15" y="190">⠀⠀⠀⠈⢣⡀⠙⠫⣝⡀⠤⣄⡀⠻⢷⣤⣀⣀⣀⣤⣾⠟⠁⠻⣧⣄⠀⠀⠀⣀⣤⣾⠟⠁⠀⡄⠀⠈⠃⠀⠘⡇⢸⡄⠀⠀⠀</tspan>
+<tspan x="15" y="210">⠀⠀⠀⠀⠀⠹⢆⠀⠀⠉⠓⠢⠤⣤⣀⣉⣉⣉⣉⣉⣀⣀⣀⣀⠈⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠙⠈⣇⠀⠀⠀</tspan>
+<tspan x="15" y="230">⠀⠀⠀⠀⠀⠀⠀⠑⢦⡀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠓⠲⢤⣀⠀⠀⠀⣡⠞⠁⢰⠀⠀⠀⢻⠀⠀⠀</tspan>
+<tspan x="15" y="250">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⡟⠀⢀⠘⡆⠀⡄⠸⡇⠀⠀</tspan>
+<tspan x="15" y="270">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⢸⢸⠀⢧⠀⢹⠀⣧⠀⠀</tspan>
+<tspan x="15" y="290">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡏⠳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠘⢸⠀⠀⠀⠸⡆⣹⠀⠀</tspan>
+<tspan x="15" y="310">⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⢸⠀⠀⠀⠀⠁⢿⠀⠀</tspan>
+<tspan x="15" y="330">⠀⠠⣾⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⡄⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⢸⢸⠀⢠⠀⠀⠀⢸⡇⠀</tspan>
+<tspan x="15" y="350">⠀⠀⠻⣟⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢤⠇⣿⠀⠀⠀⠀⠀⣴⣾⣿⣄⠀⠀⠀⠀⠀⠀⠀⡇⠈⣾⠀⢸⡆⠀⡆⠈⡇⠀</tspan>
+<tspan x="15" y="370">⠀⠀⠀⢻⠀⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⢰⣿⠀⠀⠀⠀⠸⣿⡉⠉⣿⠂⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠘⡇⠀⢿⠀⣇⠀</tspan>
+<tspan x="15" y="390">⠀⠀⠀⠸⡆⠘⡦⠄⠀⠠⠤⠄⠀⠀⠀⢀⡏⠀⣸⠰⡆⠀⠀⠀⠀⠙⢿⡀⣙⢦⡀⠀⠀⠀⠀⣾⡼⢸⢿⡄⠀⠁⠀⠸⠀⢹⠀</tspan>
+<tspan x="15" y="410">⠀⠀⠀⠀⢹⡀⠹⣄⠀⠀⠀⠀⠀⠀⠀⣸⢡⢀⡇⠀⠀⠀⠀⠀⠀⠀⠈⠳⣜⠳⡝⠦⠤⠴⣞⠁⣠⡟⠸⡇⠀⠀⠀⠀⠀⣿⠀</tspan>
+<tspan x="15" y="430">⠀⠀⠀⠀⠀⠳⡀⠘⢦⣀⠀⠀⠀⣀⡴⠃⢀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⢦⣀⣘⣋⣡⠾⠋⢸⡄⠀⠀⡆⠀⠀⠀⢸⠀</tspan>
+<tspan x="15" y="450">⠀⠀⠀⠀⠀⠀⠙⢦⣀⠈⠉⠉⠭⠵⢂⣤⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⡇⠀⠀⠀⣽⠀</tspan>
+<tspan x="15" y="470">⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠒⠒⠋⠉⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢛⢰⠀⠀⠀⠀⠃⠀⡟⠀</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">Lokonco</tspan> -—————————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Void Linux, macOS, Windows 11</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">About to be 2 years since I learned to code</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Student</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Computer Programmer</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VSCode, JetBrains, Emacs, Xcode</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, C++, Java, TypeScript, Swift</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML, CSS, Bash, Typst, Markdown</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Spanish</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Modding devices, Competitive programming, CTFs</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Building keyboards — Sofle v2; Tide 49</tspan>
+<tspan x="390" y="290" class="cc">. </tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">RealWorld</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Beer brewing, CS:GO, Skateboarding</tspan>
+</text>
 </svg>
-
