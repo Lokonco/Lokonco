@@ -1,7 +1,7 @@
 # Your Name
 
 <pre>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠲⢤⡀⠀⠀⣶⣄⡀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀          <span style="color: orange;">OS:</span> ........................ [Your Operating Systems]
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠲⢤⡀⠀⠀⣶⣄⡀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀          <code style="color :Darkorange">OS:</code> ........................ [Your Operating Systems]
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠙⠲⢤⡀⢾⠉⠉⠓⠦⣀⢻⡀⢄⠉⠳⣄⢳⡀⠙⢦⡀⢸⠏⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀       <span style="color: orange;">Uptime:</span> ..................... [Years/Months in field]
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⢤⡀⠀⠙⢻⣆⠘⢦⡀⠈⠻⣷⡈⢳⡀⠈⠻⣿⣳⡀⠳⣼⡇⠄⢳⠀⠀⢀⣠⣤⣤⣤⡀      <span style="color: orange;">Host:</span> ....................... [Your Organization/School]
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⣈⣷⣤⣤⣽⣆⠀⠁⠀⠀⠈⢳⣀⣉⣀⡀⠈⠃⠓⠀⠈⣧⣺⠈⣧⠔⣻⣥⣄⣹⣿⠃       <span style="color: orange;">Kernel:</span> ..................... [Your specialty/focus]
