@@ -1,0 +1,31 @@
+<svg width="1200" height="700" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" fill="#0d1117"/>
+  
+  <text x="600" y="60" font-family="monospace" font-size="32" fill="#ffffff" text-anchor="middle" font-weight="bold">Why are you here?????</text>
+  
+  <text font-family="monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">
+    <tspan x="100" y="120">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠲⢤⡀⠀⠀⣶⣄⡀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan><tspan fill="#ff8c00" font-weight="bold">OS:</tspan><tspan> ........................ [Your Operating Systems]</tspan>
+    <tspan x="100" y="137">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠙⠲⢤⡀⢾⠉⠉⠓⠦⣀⢻⡀⢄⠉⠳⣄⢳⡀⠙⢦⡀⢸⠏⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀</tspan><tspan fill="#ff8c00" font-weight="bold">Uptime:</tspan><tspan> ..................... [Years/Months in field]</tspan>
+    <tspan x="100" y="154">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⢤⡀⠀⠙⢻⣆⠘⢦⡀⠈⠻⣷⡈⢳⡀⠈⠻⣿⣳⡀⠳⣼⡇⠄⢳⠀⠀⢀⣠⣤⣤⣤⡀</tspan><tspan fill="#ff8c00" font-weight="bold">Host:</tspan><tspan> ....................... [Your Organization/School]</tspan>
+    <tspan x="100" y="171">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⣈⣷⣤⣤⣽⣆⠀⠁⠀⠀⠈⢳⣀⣉⣀⡀⠈⠃⠓⠀⠈⣧⣺⠈⣧⠔⣻⣥⣄⣹⣿⠃</tspan><tspan fill="#ff8c00" font-weight="bold">Kernel:</tspan><tspan> ..................... [Your specialty/focus]</tspan>
+    <tspan x="100" y="188">⢠⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣤⣀⠉⠙⠻⣦⠀⣠⡾⢛⣋⡉⠙⠻⢷⣦⡀⠀⠀⠈⢻⠾⠡⢞⡵⠛⢉⡼⠃⠀</tspan><tspan fill="#ff8c00" font-weight="bold">IDE:</tspan><tspan> ........................ [Your preferred IDEs]</tspan>
+    <tspan x="100" y="205">⠸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⣿⣿⣿⣿⣿⣷⠀⠀⢹⡿⢻⣿⣿⣿⣿⣷⡄⠀⠹⣷⠀⠀⠀⠀⠀⠐⣯⣴⠞⠋⠀⠀⠀</tspan>
+    <tspan x="100" y="222">⠀⠙⢿⢳⣶⣤⣄⣀⣀⣀⡀⠀⣿⠁⣿⣿⣿⣿⣿⣿⠀⠀⣸⡇⢸⣿⣿⣿⣿⣿⡇⠀⠀⣿⠇⠀⠘⡆⠀⠀⠀⠻⡄⠀⠀⠀⠀</tspan><tspan fill="#ff8c00" font-weight="bold">Languages.Programming:</tspan><tspan> ...... [Java, Python, etc.]</tspan>
+    <tspan x="100" y="239">⠀⠀⠈⢦⠙⢧⣄⡀⠀⠉⢉⣉⢻⣆⠈⠛⠿⠿⠛⠁⠀⣠⣿⣇⠈⠻⢿⣿⡿⠟⠁⠀⣼⡿⠀⠀⠀⢹⡀⠀⢠⠀⢧⠀⠀⠀⠀</tspan><tspan fill="#ff8c00" font-weight="bold">Languages.Computer:</tspan><tspan> ......... [HTML, CSS, etc.]</tspan>
+    <tspan x="100" y="256">⠀⠀⠀⠈⢣⡀⠙⠫⣝⡀⠤⣄⡀⠻⢷⣤⣀⣀⣀⣤⣾⠟⠁⠻⣧⣄⠀⠀⠀⣀⣤⣾⠟⠁⠀⡄⠀⠈⠃⠀⠘⡇⢸⡄⠀⠀⠀</tspan><tspan fill="#ff8c00" font-weight="bold">Languages.Real:</tspan><tspan> ............. [English, Spanish, etc.]</tspan>
+    <tspan x="100" y="273">⠀⠀⠀⠀⠀⠹⢆⠀⠀⠉⠓⠢⠤⣤⣀⣉⣉⣉⣉⣉⣀⣀⣀⣀⠈⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠙⠈⣇⠀⠀⠀</tspan>
+    <tspan x="100" y="290">⠀⠀⠀⠀⠀⠀⠀⠑⢦⡀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠓⠲⢤⣀⠀⠀⠀⣡⠞⠁⢰⠀⠀⠀⢻⠀⠀⠀</tspan><tspan fill="#ff8c00" font-weight="bold">Hobbies.Software:</tspan><tspan> ........... [Your software hobbies]</tspan>
+    <tspan x="100" y="307">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⡟⠀⢀⠘⡆⠀⡄⠸⡇⠀⠀</tspan><tspan fill="#ff8c00" font-weight="bold">Hobbies.Hardware:</tspan><tspan> ........... [Your hardware hobbies]</tspan>
+    <tspan x="100" y="324">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⢸⢸⠀⢧⠀⢹⠀⣧⠀⠀</tspan>
+    <tspan x="100" y="341">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡏⠳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠘⢸⠀⠀⠀⠸⡆⣹⠀⠀</tspan>
+    <tspan x="100" y="358">⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⢸⠀⠀⠀⠀⠁⢿⠀⠀</tspan>
+    <tspan x="100" y="375">⠀⠠⣾⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⡄⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⢸⢸⠀⢠⠀⠀⠀⢸⡇⠀</tspan>
+    <tspan x="100" y="392">⠀⠀⠻⣟⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢤⠇⣿⠀⠀⠀⠀⠀⣴⣾⣿⣄⠀⠀⠀⠀⠀⠀⠀⡇⠈⣾⠀⢸⡆⠀⡆⠈⡇⠀</tspan>
+    <tspan x="100" y="409">⠀⠀⠀⢻⠀⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⢰⣿⠀⠀⠀⠀⠸⣿⡉⠉⣿⠂⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠘⡇⠀⢿⠀⣇⠀</tspan>
+    <tspan x="100" y="426">⠀⠀⠀⠸⡆⠘⡦⠄⠀⠠⠤⠄⠀⠀⠀⢀⡏⠀⣸⠰⡆⠀⠀⠀⠀⠙⢿⡀⣙⢦⡀⠀⠀⠀⠀⣾⡼⢸⢿⡄⠀⠁⠀⠸⠀⢹⠀</tspan>
+    <tspan x="100" y="443">⠀⠀⠀⠀⢹⡀⠹⣄⠀⠀⠀⠀⠀⠀⠀⣸⢡⢀⡇⠀⠀⠀⠀⠀⠀⠀⠈⠳⣜⠳⡝⠦⠤⠴⣞⠁⣠⡟⠸⡇⠀⠀⠀⠀⠀⣿⠀</tspan>
+    <tspan x="100" y="460">⠀⠀⠀⠀⠀⠳⡀⠘⢦⣀⠀⠀⠀⣀⡴⠃⢀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⢦⣀⣘⣋⣡⠾⠋⢸⡄⠀⠀⡆⠀⠀⠀⢸⠀</tspan>
+    <tspan x="100" y="477">⠀⠀⠀⠀⠀⠀⠙⢦⣀⠈⠉⠉⠭⠵⢂⣤⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⡇⠀⠀⠀⣽⠀</tspan>
+    <tspan x="100" y="494">⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠒⠒⠋⠉⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢛⢰⠀⠀⠀⠀⠃⠀⡟⠀</tspan>
+  </text>
+</svg>
