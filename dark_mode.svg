@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="400" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="14">
+<svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace">
   <style>
     .bg { fill: #0d1117; }
-    .title { fill: #ffffff; font-size: 34px; font-weight: 700; }
-    .ascii { fill: #c9d1d9; font-size: 20px; white-space: pre; }
+    .title { fill: #ffffff; font-size: 38px; font-weight: 700; }
+    .ascii { fill: #c9d1d9; font-size: 23px; white-space: pre; }
     .key { fill: #ff8c00; font-weight: 700; }
     .value { fill: #a5d6ff; }
     .dots { fill: #6b7280; }
@@ -11,61 +11,50 @@
   </style>
 
   <!-- Background -->
-  <rect class="bg" width="1200" height="700" rx="12"/>
+  <rect class="bg" width="1200" height="500" rx="12"/>
 
-  <!-- Title (centered) -->
+  <!-- Title -->
   <text x="600" y="60" class="title" text-anchor="middle">Why are you here??????</text>
 
-  <!-- Left: ASCII art (preserve exact spacing & shape) -->
+  <!-- ASCII Art -->
   <text x="60" y="120" class="ascii" xml:space="preserve">
 <tspan x="60" dy="0">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠲⢤⡀⠀⠀⣶⣄⡀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠙⠲⢤⡀⢾⠉⠉⠓⠦⣀⢻⡀⢄⠉⠳⣄⢳⡀⠙⢦⡀⢸⠏⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⢤⡀⠀⠙⢻⣆⠘⢦⡀⠈⠻⣷⡈⢳⡀⠈⠻⣿⣳⡀⠳⣼⡇⠄⢳⠀⠀⢀⣠⣤⣤⣤⡀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⣈⣷⣤⣤⣽⣆⠀⠁⠀⠀⠈⢳⣀⣉⣀⡀⠈⠃⠓⠀⠈⣧⣺⠈⣧⠔⣻⣥⣄⣹⣿⠃</tspan>
-<tspan x="60" dy="17">⢠⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣤⣀⠉⠙⠻⣦⠀⣠⡾⢛⣋⡉⠙⠻⢷⣦⡀⠀⠀⠈⢻⠾⠡⢞⡵⠛⢉⡼⠃⠀</tspan>
-<tspan x="60" dy="17">⠸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⣿⣿⣿⣿⣿⣷⠀⠀⢹⡿⢻⣿⣿⣿⣿⣷⡄⠀⠹⣷⠀⠀⠀⠀⠀⠐⣯⣴⠞⠋⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠙⢿⢳⣶⣤⣄⣀⣀⣀⡀⠀⣿⠁⣿⣿⣿⣿⣿⣿⠀⠀⣸⡇⢸⣿⣿⣿⣿⣿⡇⠀⠀⣿⠇⠀⠘⡆⠀⠀⠀⠻⡄⠀⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠈⢦⠙⢧⣄⡀⠀⠉⢉⣉⢻⣆⠈⠛⠿⠿⠛⠁⠀⣠⣿⣇⠈⠻⢿⣿⡿⠟⠁⠀⣼⡿⠀⠀⠀⢹⡀⠀⢠⠀⢧⠀⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠈⢣⡀⠙⠫⣝⡀⠤⣄⡀⠻⢷⣤⣀⣀⣀⣤⣾⠟⠁⠻⣧⣄⠀⠀⠀⣀⣤⣾⠟⠁⠀⡄⠀⠈⠃⠀⠘⡇⢸⡄⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠹⢆⠀⠀⠉⠓⠢⠤⣤⣀⣉⣉⣉⣉⣉⣀⣀⣀⣀⠈⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠙⠈⣇⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠑⢦⡀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠓⠲⢤⣀⠀⠀⠀⣡⠞⠁⢰⠀⠀⠀⢻⠀⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⡟⠀⢀⠘⡆⠀⡄⠸⡇⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⢸⢸⠀⢧⠀⢹⠀⣧⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡏⠳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠘⢸⠀⠀⠀⠸⡆⣹⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⢸⠀⠀⠀⠀⠁⢿⠀⠀</tspan>
-<tspan x="60" dy="17">⠀⠠⣾⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⡄⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⢸⢸⠀⢠⠀⠀⠀⢸⡇⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠻⣟⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢤⠇⣿⠀⠀⠀⠀⠀⣴⣾⣿⣄⠀⠀⠀⠀⠀⠀⠀⡇⠈⣾⠀⢸⡆⠀⡆⠈⡇⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⢻⠀⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⢰⣿⠀⠀⠀⠀⠸⣿⡉⠉⣿⠂⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠘⡇⠀⢿⠀⣇⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠸⡆⠘⡦⠄⠀⠠⠤⠄⠀⠀⠀⢀⡏⠀⣸⠰⡆⠀⠀⠀⠀⠙⢿⡀⣙⢦⡀⠀⠀⠀⠀⣾⡼⢸⢿⡄⠀⠁⠀⠸⠀⢹⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⢹⡀⠹⣄⠀⠀⠀⠀⠀⠀⠀⣸⢡⢀⡇⠀⠀⠀⠀⠀⠀⠀⠈⠳⣜⠳⡝⠦⠤⠴⣞⠁⣠⡟⠸⡇⠀⠀⠀⠀⠀⣿⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠳⡀⠘⢦⣀⠀⠀⠀⣀⡴⠃⢀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⢦⣀⣘⣋⣡⠾⠋⢸⡄⠀⠀⡆⠀⠀⠀⢸⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠙⢦⣀⠈⠉⠉⠭⠵⢂⣤⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⡇⠀⠀⠀⣽⠀</tspan>
-<tspan x="60" dy="17">⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠒⠒⠋⠉⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢛⢰⠀⠀⠀⠀⠃⠀⡟⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠙⠲⢤⡀⢾⠉⠉⠓⠦⣀⢻⡀⢄⠉⠳⣄⢳⡀⠙⢦⡀⢸⠏⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⢤⡀⠀⠙⢻⣆⠘⢦⡀⠈⠻⣷⡈⢳⡀⠈⠻⣿⣳⡀⠳⣼⡇⠄⢳⠀⠀⢀⣠⣤⣤⣤⡀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⣈⣷⣤⣤⣽⣆⠀⠁⠀⠀⠈⢳⣀⣉⣀⡀⠈⠃⠓⠀⠈⣧⣺⠈⣧⠔⣻⣥⣄⣹⣿⠃</tspan>
+<tspan x="60" dy="20">⢠⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣤⣀⠉⠙⠻⣦⠀⣠⡾⢛⣋⡉⠙⠻⢷⣦⡀⠀⠀⠈⢻⠾⠡⢞⡵⠛⢉⡼⠃⠀</tspan>
+<tspan x="60" dy="20">⠸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⣿⣿⣿⣿⣿⣷⠀⠀⢹⡿⢻⣿⣿⣿⣿⣷⡄⠀⠹⣷⠀⠀⠀⠀⠀⠐⣯⣴⠞⠋⠀⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠙⢿⢳⣶⣤⣄⣀⣀⣀⡀⠀⣿⠁⣿⣿⣿⣿⣿⣿⠀⠀⣸⡇⢸⣿⣿⣿⣿⣿⡇⠀⠀⣿⠇⠀⠘⡆⠀⠀⠀⠻⡄⠀⠀⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠈⢦⠙⢧⣄⡀⠀⠉⢉⣉⢻⣆⠈⠛⠿⠿⠛⠁⠀⣠⣿⣇⠈⠻⢿⣿⡿⠟⠁⠀⣼⡿⠀⠀⠀⢹⡀⠀⢠⠀⢧⠀⠀⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠈⢣⡀⠙⠫⣝⡀⠤⣄⡀⠻⢷⣤⣀⣀⣀⣤⣾⠟⠁⠻⣧⣄⠀⠀⠀⣀⣤⣾⠟⠁⠀⡄⠀⠈⠃⠀⠘⡇⢸⡄⠀⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠹⢆⠀⠀⠉⠓⠢⠤⣤⣀⣉⣉⣉⣉⣉⣀⣀⣀⣀⠈⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠙⠈⣇⠀⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠀⠀⠑⢦⡀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠓⠲⢤⣀⠀⠀⠀⣡⠞⠁⢰⠀⠀⠀⢻⠀⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⡟⠀⢀⠘⡆⠀⡄⠸⡇⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⢸⢸⠀⢧⠀⢹⠀⣧⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡏⠳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠘⢸⠀⠀⠀⠸⡆⣹⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⢸⠀⠀⠀⠀⠁⢿⠀⠀</tspan>
+<tspan x="60" dy="20">⠀⠠⣾⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⡄⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⢸⢸⠀⢠⠀⠀⠀⢸⡇⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠻⣟⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢤⠇⣿⠀⠀⠀⠀⠀⣴⣾⣿⣄⠀⠀⠀⠀⠀⠀⠀⡇⠈⣾⠀⢸⡆⠀⡆⠈⡇⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⢻⠀⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠀⢰⣿⠀⠀⠀⠀⠸⣿⡉⠉⣿⠂⠀⠀⠀⠀⠀⢰⡇⠀⣿⠀⠘⡇⠀⢿⠀⣇⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠸⡆⠘⡦⠄⠀⠠⠤⠄⠀⠀⠀⢀⡏⠀⣸⠰⡆⠀⠀⠀⠀⠙⢿⡀⣙⢦⡀⠀⠀⠀⠀⣾⡼⢸⢿⡄⠀⠁⠀⠸⠀⢹⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⢹⡀⠹⣄⠀⠀⠀⠀⠀⠀⠀⣸⢡⢀⡇⠀⠀⠀⠀⠀⠀⠀⠈⠳⣜⠳⡝⠦⠤⠴⣞⠁⣠⡟⠸⡇⠀⠀⠀⠀⠀⣿⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠳⡀⠘⢦⣀⠀⠀⠀⣀⡴⠃⢀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⢦⣀⣘⣋⣡⠾⠋⢸⡄⠀⠀⡆⠀⠀⠀⢸⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠀⠙⢦⣀⠈⠉⠉⠭⠵⢂⣤⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⡇⠀⠀⠀⣽⠀</tspan>
+<tspan x="60" dy="20">⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠒⠒⠋⠉⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢛⢰⠀⠀⠀⠀⠃⠀⡟⠀</tspan>
   </text>
 
-  <!-- Right: Info block (editable placeholders) -->
-  <text x="660" y="120" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="15" xml:space="preserve">
-    <tspan x="660" dy="0"><tspan class="dots">- </tspan><tspan class="key">OS</tspan><tspan class="dots">:</tspan> <tspan class="dots">..........................</tspan> <tspan class="value">[Void Linux, macOS, Windows 11]</tspan></tspan>
-
-    <tspan x="660" dy="24"><tspan class="dots">- </tspan><tspan class="key">Uptime</tspan><tspan class="dots">:</tspan> <tspan class="dots">.....................</tspan> <tspan class="value">[About to be 2 years since I learned to code]</tspan></tspan>
-
-    <tspan x="660" dy="24"><tspan class="dots">- </tspan><tspan class="key">Host</tspan><tspan class="dots">:</tspan> <tspan class="dots">........................</tspan> <tspan class="value">[Student]</tspan></tspan>
-
-    <tspan x="660" dy="24"><tspan class="dots">- </tspan><tspan class="key">Kernel</tspan><tspan class="dots">:</tspan> <tspan class="dots">........................</tspan> <tspan class="value">[Computer Programmer]</tspan></tspan>
-
-    <tspan x="660" dy="28"><tspan class="dots">- </tspan><tspan class="key">IDE</tspan><tspan class="dots">:</tspan> <tspan class="dots">........................</tspan> <tspan class="value">[VSCode, JetBrains, Emacs, Xcode]</tspan></tspan>
-
-    <tspan x="660" dy="28"><tspan class="dots">- </tspan><tspan class="key">Languages.Programming</tspan><tspan class="dots">:</tspan> <tspan class="dots">.....</tspan> <tspan class="value">[Python, C++, Java, TypeScript, Swift]</tspan></tspan>
-
-    <tspan x="660" dy="28"><tspan class="dots">- </tspan><tspan class="key">Languages.Computer</tspan><tspan class="dots">:</tspan> <tspan class="dots">.......</tspan> <tspan class="value">[HTML, CSS, Bash, Typst, Markdown]</tspan></tspan>
-
-    <tspan x="660" dy="28"><tspan class="dots">- </tspan><tspan class="key">Languages.Real</tspan><tspan class="dots">:</tspan> <tspan class="dots">........................</tspan> <tspan class="value">[English, Spanish]</tspan></tspan>
-
-    <tspan x="660" dy="32"><tspan class="dots">- </tspan><tspan class="key">Hobbies.Software</tspan><tspan class="dots">:</tspan> <tspan class="dots">...........</tspan> <tspan class="value">[Modding devices, Competitive programming, CTFs]</tspan></tspan>
-
-    <tspan x="660" dy="28"><tspan class="dots">- </tspan><tspan class="key">Hobbies.Hardware</tspan><tspan class="dots">:</tspan> <tspan class="dots">...........</tspan> <tspan class="value">[Building keyboards — Sofle v2; Tide 49]</tspan></tspan>
-
-    <tspan x="660" dy="36"><tspan class="dots">- </tspan><tspan class="key">Hobbies.RealWorld</tspan><tspan class="dots">:</tspan> <tspan class="dots">...........</tspan> <tspan class="value">[Beer brewing, CS:GO, Skateboarding]</tspan></tspan>
+  <!-- Info Section -->
+  <text x="670" y="120" font-size="18" xml:space="preserve">
+    <tspan x="670" dy="0"><tspan class="dots">- </tspan><tspan class="key">OS</tspan><tspan class="dots">:</tspan> <tspan class="dots">.........................</tspan> <tspan class="value">[Void Linux, macOS, Windows 11]</tspan></tspan>
+    <tspan x="670" dy="28"><tspan class="dots">- </tspan><tspan class="key">Uptime</tspan><tspan class="dots">:</tspan> <tspan class="dots">.......................</tspan> <tspan class="value">[About to be 2 years since I learned to code]</tspan></tspan>
+    <tspan x="670" dy="28"><tspan class="dots">- </tspan><tspan class="key">Host</tspan><tspan class="dots">:</tspan> <tspan class="dots">.......................</tspan> <tspan class="value">[Student]</tspan></tspan>
+    <tspan x="670" dy="28"><tspan class="dots">- </tspan><tspan class="key">Kernel</tspan><tspan class="dots">:</tspan> <tspan class="dots">.......................</tspan> <tspan class="value">[Computer Programmer]</tspan></tspan>
+    <tspan x="670" dy="30"><tspan class="dots">- </tspan><tspan class="key">IDE</tspan><tspan class="dots">:</tspan> <tspan class="dots">.......................</tspan> <tspan class="value">[VSCode, JetBrains, Emacs, Xcode]</tspan></tspan>
+    <tspan x="670" dy="30"><tspan class="dots">- </tspan><tspan class="key">Languages.Programming</tspan><tspan class="dots">:</tspan> <tspan class="dots">.......</tspan> <tspan class="value">[Python, C++, Java, TypeScript, Swift]</tspan></tspan>
+    <tspan x="670" dy="30"><tspan class="dots">- </tspan><tspan class="key">Languages.Computer</tspan><tspan class="dots">:</tspan> <tspan class="dots">........</tspan> <tspan class="value">[HTML, CSS, Bash, Typst, Markdown]</tspan></tspan>
+    <tspan x="670" dy="30"><tspan class="dots">- </tspan><tspan class="key">Languages.Real</tspan><tspan class="dots">:</tspan> <tspan class="dots">.......................</tspan> <tspan class="value">[English, Spanish]</tspan></tspan>
+    <tspan x="670" dy="34"><tspan class="dots">- </tspan><tspan class="key">Hobbies.Software</tspan><tspan class="dots">:</tspan> <tspan class="dots">..........</tspan> <tspan class="value">[Modding devices, Competitive programming, CTFs]</tspan></tspan>
+    <tspan x="670" dy="30"><tspan class="dots">- </tspan><tspan class="key">Hobbies.Hardware</tspan><tspan class="dots">:</tspan> <tspan class="dots">..........</tspan> <tspan class="value">[Building keyboards — Sofle v2; Tide 49]</tspan></tspan>
+    <tspan x="670" dy="36"><tspan class="dots">- </tspan><tspan class="key">Hobbies.RealWorld</tspan><tspan class="dots">:</tspan> <tspan class="dots">..........</tspan> <tspan class="value">[Beer brewing, CS:GO, Skateboarding]</tspan></tspan>
   </text>
 </svg>
-
