@@ -1,20 +1,19 @@
-## Why are you here??????
+# Your Name
 
-
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠲⢤⡀⠀⠀⣶⣄⡀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                - style="color: orange;">OS:</span>: ........................ [Void Linux, MacOS, Windows 11]
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠙⠲⢤⡀⢾⠉⠉⠓⠦⣀⢻⡀⢄⠉⠳⣄⢳⡀⠙⢦⡀⢸⠏⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀                - style="color: orange;">Uptime:</span>: ..................... [About to be 2 years since I learned to code]
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⢤⡀⠀⠙⢻⣆⠘⢦⡀⠈⠻⣷⡈⢳⡀⠈⠻⣿⣳⡀⠳⣼⡇⠄⢳⠀⠀⢀⣠⣤⣤⣤⡀                - style="color: orange;">OS:</span>Host: ....................... [Student]
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⣈⣷⣤⣤⣽⣆⠀⠁⠀⠀⠈⢳⣀⣉⣀⡀⠈⠃⠓⠀⠈⣧⣺⠈⣧⠔⣻⣥⣄⣹⣿⠃                - style="color: orange;">Kernal:</span>Kernel: ..................... [Computer Programmer]
-⢠⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣤⣀⠉⠙⠻⣦⠀⣠⡾⢛⣋⡉⠙⠻⢷⣦⡀⠀⠀⠈⢻⠾⠡⢞⡵⠛⢉⡼⠃⠀                - style="color: orange;">OS:</span>IDE: ........................ [Vscode, Various JetBrains, Emacs, Xcode]
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠲⢤⡀⠀⠀⣶⣄⡀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀                <span style="color: orange;">OS:</span> ........................ [Your Operating Systems]
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠙⠲⢤⡀⢾⠉⠉⠓⠦⣀⢻⡀⢄⠉⠳⣄⢳⡀⠙⢦⡀⢸⠏⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀                <span style="color: orange;">Uptime:</span> ..................... [Years/Months in field]
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⢤⡀⠀⠙⢻⣆⠘⢦⡀⠈⠻⣷⡈⢳⡀⠈⠻⣿⣳⡀⠳⣼⡇⠄⢳⠀⠀⢀⣠⣤⣤⣤⡀                <span style="color: orange;">Host:</span> ....................... [Your Organization/School]
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣦⣈⣷⣤⣤⣽⣆⠀⠁⠀⠀⠈⢳⣀⣉⣀⡀⠈⠃⠓⠀⠈⣧⣺⠈⣧⠔⣻⣥⣄⣹⣿⠃                <span style="color: orange;">Kernel:</span> ..................... [Your specialty/focus]
+⢠⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣤⣀⠉⠙⠻⣦⠀⣠⡾⢛⣋⡉⠙⠻⢷⣦⡀⠀⠀⠈⢻⠾⠡⢞⡵⠛⢉⡼⠃⠀                <span style="color: orange;">IDE:</span> ........................ [Your preferred IDEs]
 ⠸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⣿⣿⣿⣿⣿⣷⠀⠀⢹⡿⢻⣿⣿⣿⣿⣷⡄⠀⠹⣷⠀⠀⠀⠀⠀⠐⣯⣴⠞⠋⠀⠀⠀
-⠀⠙⢿⢳⣶⣤⣄⣀⣀⣀⡀⠀⣿⠁⣿⣿⣿⣿⣿⣿⠀⠀⣸⡇⢸⣿⣿⣿⣿⣿⡇⠀⠀⣿⠇⠀⠘⡆⠀⠀⠀⠻⡄⠀⠀⠀⠀                - style="color: orange;">Languages.Programming:</span>...... [Python, C++, Java, TypeScript, Swift]
-⠀⠀⠈⢦⠙⢧⣄⡀⠀⠉⢉⣉⢻⣆⠈⠛⠿⠿⠛⠁⠀⣠⣿⣇⠈⠻⢿⣿⡿⠟⠁⠀⣼⡿⠀⠀⠀⢹⡀⠀⢠⠀⢧⠀⠀⠀⠀                - style="color: orange;">Languages.Computer:</span>......... [HTML, CSS, Bash, Typst, MarkDown]
-⠀⠀⠀⠈⢣⡀⠙⠫⣝⡀⠤⣄⡀⠻⢷⣤⣀⣀⣀⣤⣾⠟⠁⠻⣧⣄⠀⠀⠀⣀⣤⣾⠟⠁⠀⡄⠀⠈⠃⠀⠘⡇⢸⡄⠀⠀⠀                - style="color: orange;">Languages.Real:</span>............. [English, Spanish]
+⠀⠙⢿⢳⣶⣤⣄⣀⣀⣀⡀⠀⣿⠁⣿⣿⣿⣿⣿⣿⠀⠀⣸⡇⢸⣿⣿⣿⣿⣿⡇⠀⠀⣿⠇⠀⠘⡆⠀⠀⠀⠻⡄⠀⠀⠀⠀                <span style="color: orange;">Languages.Programming:</span> ...... [Java, Python, etc.]
+⠀⠀⠈⢦⠙⢧⣄⡀⠀⠉⢉⣉⢻⣆⠈⠛⠿⠿⠛⠁⠀⣠⣿⣇⠈⠻⢿⣿⡿⠟⠁⠀⣼⡿⠀⠀⠀⢹⡀⠀⢠⠀⢧⠀⠀⠀⠀                <span style="color: orange;">Languages.Computer:</span> ......... [HTML, CSS, etc.]
+⠀⠀⠀⠈⢣⡀⠙⠫⣝⡀⠤⣄⡀⠻⢷⣤⣀⣀⣀⣤⣾⠟⠁⠻⣧⣄⠀⠀⠀⣀⣤⣾⠟⠁⠀⡄⠀⠈⠃⠀⠘⡇⢸⡄⠀⠀⠀                <span style="color: orange;">Languages.Real:</span> ............. [English, Spanish, etc.]
 ⠀⠀⠀⠀⠀⠹⢆⠀⠀⠉⠓⠢⠤⣤⣀⣉⣉⣉⣉⣉⣀⣀⣀⣀⠈⠙⠛⠛⠛⠛⠉⠀⠀⠀⠀⢹⡄⠀⠀⠀⠀⠙⠈⣇⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠑⢦⡀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠓⠲⢤⣀⠀⠀⠀⣡⠞⠁⢰⠀⠀⠀⢻⠀⠀⠀                - style="color: orange;">Hobbies.Software:</span> ........... [Modding devices, Competitive programming, CTF Jeopardy]
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⡟⠀⢀⠘⡆⠀⡄⠸⡇⠀⠀                - style="color: orange;">Hobbies.Hardware:</span> ........... [Building keyboards; Current Keyboards: Travel- Sofle v2, Home - Tide 49]
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⢸⢸⠀⢧⠀⢹⠀⣧                  - style="color: orange;">Hobbies.RealWorld:</span> ........... [Beer Brewing, Competitive Counter-Strike, SkateBoarding]
+⠀⠀⠀⠀⠀⠀⠀⠑⢦⡀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠓⠲⢤⣀⠀⠀⠀⣡⠞⠁⢰⠀⠀⠀⢻⠀⠀⠀                <span style="color: orange;">Hobbies.Software:</span> ........... [Your software hobbies]
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⡟⠀⢀⠘⡆⠀⡄⠸⡇⠀⠀                <span style="color: orange;">Hobbies.Hardware:</span> ........... [Your hardware hobbies]
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠲⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⢸⢸⠀⢧⠀⢹⠀⣧⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡏⠳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠘⢸⠀⠀⠀⠸⡆⣹⠀⠀
 ⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⢸⠀⠀⠀⠀⠁⢿⠀⠀
 ⠀⠠⣾⣿⣿⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⡄⢻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⢸⢸⠀⢠⠀⠀⠀⢸⡇⠀
@@ -25,3 +24,4 @@
 ⠀⠀⠀⠀⠀⠳⡀⠘⢦⣀⠀⠀⠀⣀⡴⠃⢀⡼⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⢦⣀⣘⣋⣡⠾⠋⢸⡄⠀⠀⡆⠀⠀⠀⢸⠀
 ⠀⠀⠀⠀⠀⠀⠙⢦⣀⠈⠉⠉⠭⠵⢂⣤⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠁⠀⠀⡇⠀⠀⠀⣽⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠒⠒⠋⠉⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢛⢰⠀⠀⠀⠀⠃⠀⡟⠀
+</pre>
