@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-.+**#+=..=*++:...                            - OS: ........................ [Your Operating Systems]
+
+              .+**#+=..=*++:...                            - OS: ........................ [Your Operating Systems]
               .=****%=+****++++-.                            - Uptime: ..................... [Years/Months in field]
            ...=*****%=+****+=++=#:...                        - Host: ....................... [Your Organization/School]
    .........-******#++#*#*++++++++-..                        - Kernel: ..................... [Your specialty/focus]
