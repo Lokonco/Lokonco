@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="'Courier New',Courier,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="'Courier New',Courier,monospace" width="985px" height="530px" font-size="15px">
 <style>
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
@@ -7,7 +7,7 @@
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<rect width="985px" height="530px" fill="#161b22" rx="14"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii" font-size="14px">
 <tspan x="15" y="30">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡖⠲⢤⡀⠀⠀⣶⣄⡀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
 <tspan x="15" y="50">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠙⠲⢤⡀⢾⠉⠉⠓⠦⣀⢻⡀⢄⠉⠳⣄⢳⡀⠙⢦⡀⢸⠏⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
@@ -34,18 +34,18 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="470">⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠒⠒⠒⠋⠉⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢛⢰⠀⠀⠀⠀⠃⠀⡟⠀</tspan>
 </text>
 <text x="500" y="30" fill="#c9d1d9">
-<tspan x="500" y="30">andrew@grant</tspan> -———————————————————————————————————————————-—-
-<tspan x="500" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"></tspan><tspan class="value">Windows 10, Android 14, Linux</tspan>
-<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
-<tspan x="500" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"></tspan><tspan class="value">TTM Technologies, Inc.</tspan>
-<tspan x="500" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"></tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
-<tspan x="500" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"></tspan><tspan class="value">IDEA 2023.3.2, VSCode 1.96.0</tspan>
+<tspan x="500" y="30"></tspan> -———————————————————————————————————————————-—-
+<tspan x="500" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"></tspan><tspan class="value">Void Linux, Windows 11, MacOS</tspan>
+<tspan x="500" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> </tspan><tspan class="value" id="age_data"> 2 years</tspan>
+<tspan x="500" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"></tspan><tspan class="value">Student</tspan>
+<tspan x="500" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"></tspan><tspan class="value">Computer Programmer</tspan>
+<tspan x="500" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"></tspan><tspan class="value">VScode, Various Jetbrains, Emacs</tspan>
 <tspan x="500" y="150" class="cc">. </tspan>
-<tspan x="500" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"></tspan><tspan class="value">Java, Python, JavaScript, C++</tspan>
-<tspan x="500" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"></tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
+<tspan x="500" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"></tspan><tspan class="value">C++, Python, Java, TypeScript, Swift</tspan>
+<tspan x="500" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"></tspan><tspan class="value">HTML, CSS, JSON, Typst, Bash</tspan>
 <tspan x="500" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"></tspan><tspan class="value">English, Spanish</tspan>
 <tspan x="500" y="230" class="cc">. </tspan>
-<tspan x="500" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"></tspan><tspan class="value">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="500" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> </tspan><tspan class="value">Overclocking, Undervolting</tspan>
+<tspan x="500" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"></tspan><tspan class="value">Modding devices, making random things</tspan>
+<tspan x="500" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> </tspan><tspan class="value">Keyboard Building; Travel: Sofle V2, Home: Tide 49</tspan>
 </text>
 </svg>
