@@ -46,7 +46,7 @@ text, tspan {white-space: pre;}
 <tspan x="500" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"></tspan><tspan class="value"> English, Spanish</tspan>
 <tspan x="500" y="230" class="cc">. </tspan>
 <tspan x="500" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"></tspan><tspan class="value"> Modding devices, Competitive Programming, Jeopardy CTF</tspan>
-<tspan x="500" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"></tspan><tspan class="value"> Keyboard Building; Travel: Sofle V2, Home: Tide 49</tspan>
-<tspan x="500" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">IRL</tspan>:<tspan class="cc"></tspan><tspan class="value"> Beer Brewing, Skateboarding, Competitive CounterStrike</tspan>
+<tspan x="500" y="260" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"></tspan><tspan class="value"> Keyboard Building; Travel: Sofle V2, Home: Tide 49</tspan>
+<tspan x="500" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">IRL</tspan>:<tspan class="cc"></tspan><tspan class="value"> Beer Brewing, Skateboarding, Competitive CounterStrike</tspan>
 </text>
 </svg>
